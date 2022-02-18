@@ -40,3 +40,7 @@ SPDX-License-Identifier: Unicode-DFS-2016
 Copyright &copy; 1991-2022 Unicode, Inc.
 All rights reserved.
 [Terms of use](http://www.unicode.org/copyright.html)
+
+### Why I Forked?
+
+To backup this awesome data so it doesn't get lost in the landfill of the internet.
